@@ -1,5 +1,5 @@
-# Credit-Card-Analysis
-📊 Credit Card Transaction Analysis
+# Credit Card Transaction Analysis
+
 📌 Project Overview
 This project analyzes credit card transactions using Power BI, providing insights into revenue, customer demographics, and spending behavior.
 
