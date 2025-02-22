@@ -5,6 +5,7 @@
 This project analyzes credit card transactions using Power BI, providing insights into revenue, customer demographics, and spending behavior.
 
 🔍 Insights Covered
+
 Revenue breakdown by expense type, job category, education level, and card category.
 
 Analysis of customer acquisition cost and interest earned.
